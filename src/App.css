@@ -1,0 +1,31 @@
+.Searchlabel {
+  display:inline-block;
+
+}
+table {
+  border-top: solid 1px black;
+ margin-top: 20px;
+}
+
+div.body {
+  left:10%;
+  width:80%;
+  top:10px;
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  position: absolute;
+}
+
+div.inline {
+  display: inline;
+}
+
+div.match {
+  color: red;
+  display: inline-block;
+  background-color: yellow;
+}
+td{
+  margin-left: 5px;
+}
